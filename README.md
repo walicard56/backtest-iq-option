@@ -7,8 +7,8 @@
 
 <img src="static/personagem2.png">
 
-> Bots for automating Binary Option Trading.
-> You can also try the live version here: https://share.streamlit.io/metheuspsc/iq_option_bots/app.py
+> Bots for backtest Binary Option Trading.
+> 
 ### Changelog and Roadmap
 
 The project is still under development and next releases will focus on the following
